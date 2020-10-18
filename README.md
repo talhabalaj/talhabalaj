@@ -11,6 +11,8 @@
 <a href="https://instagram.com/talha.codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="talha.codes" height="30" width="40" /></a>
 </p>
 
+---
+
 - 🔭 I’m currently working on **WhatsApp Music Bot**
 
 - 🌱 I’m currently learning **AI for Everyone on Coursera**
@@ -23,13 +25,15 @@
 
 - 📫 How to reach me **hey@talhabalaj.com**
 
+
+### ⏲ What I am upto this week
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-### Blogs posts
+### Blog
 <!-- BLOG-POST-LIST:START -->
 - [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 <!-- BLOG-POST-LIST:END -->
