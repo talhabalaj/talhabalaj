@@ -31,6 +31,7 @@ No Activity tracked this Week
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 <!-- BLOG-POST-LIST:END -->
 
 
