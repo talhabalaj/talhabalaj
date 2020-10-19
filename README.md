@@ -29,7 +29,9 @@
 ### ⏲ What I am upto this week
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python        13 mins         █████████▓░░░░░░░░░░░░░░░   38.91 % 
+Other         10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.32 % 
+C             10 mins         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
 ```
 <!--END_SECTION:waka-->
 
