@@ -13,14 +13,10 @@
 
 ---
 
-- 🔭 I’m currently working on **Flutter App for my University's Student Portal**
-
+- 🔭 I’m currently working on **Office Projects**
 - 👨‍💻 All of my projects are available at [https://github.com/talhabalaj?tab=repositories](https://github.com/talhabalaj?tab=repositories)
-
 - 📝 I sometime write articles on [https://dev.to/talhabalaj](https://dev.to/talhabalaj)
-
 - 💬 Ask me about **react, flutter, cloud and anything tech**
-
 - 📫 How to reach me **hey@talhabalaj.com**
 
 
