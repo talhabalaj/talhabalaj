@@ -23,7 +23,8 @@
 ### ⏲ What I am upto this week
 <!--START_SECTION:waka-->
 ```text
-
+YAML         9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.07 % 
+CMake        7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.03 % 
 ```
 <!--END_SECTION:waka-->
 
