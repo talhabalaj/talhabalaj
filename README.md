@@ -20,15 +20,6 @@
 - 📫 How to reach me **hey@talhabalaj.com**
 
 
-### ⏲ What I am upto this week
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ### Blog
 <!-- BLOG-POST-LIST:START -->
 - [Setup Visual Studio Code for Multi-File C++ Projects](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
