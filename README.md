@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Balaj</h1>
-<h3 align="center">Full Stack Developer | Flutter Developer</h3>
+<h3 align="center">Software Engineer (JavaScript Full Stack)</h3>
 
 <p align="center">
 <a href="https://codepen.io/talhabalaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="talhabalaj" height="30" width="40" /></a>
